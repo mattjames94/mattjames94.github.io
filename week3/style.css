@@ -1,0 +1,38 @@
+* {
+  color: darkgreen;
+}
+h1,
+h2 {
+  color: aquamarine;
+}
+/*h2 {
+  color: blueviolet;
+}*/
+p {
+  color: brown;
+  padding: 10px;
+}
+li {
+  color: black;
+}
+.my-colors {
+  color: hotpink;
+  padding: 30px;
+}
+#outcomes {
+  color: teal;
+}
+[data-heading="learning"] {
+  color: goldenrod;
+}
+li strong {
+  color: greenyellow;
+}
+h3 > strong {
+  color: red;
+}
+/*
+-----------------------------
+this is a meaningful comment
+-----------------------------
+*/
