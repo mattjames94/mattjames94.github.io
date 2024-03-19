@@ -1,23 +1,47 @@
 * {
   color: darkgreen;
 }
-h1,
+body {
+  text-align: center;
+  border: 5px solid blueviolet;
+  font-family: "Geostar Fill", serif;
+  font-style: normal;
+  font-size: 1rem;
+}
+h1 {
+  color: aquamarine;
+  text-transform: uppercase;
+  font-size: 2rem;
+  text-decoration: dotted;
+  font-family: "Truculenta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+}
+/*h1,
 h2 {
   color: aquamarine;
 }
-/*h2 {
+h2 {
   color: blueviolet;
 }*/
 p {
   color: brown;
   padding: 10px;
+  font-size: 1rem;
+  line-height: 1.7;
+  text-align: left;
+  text-transform: lowercase;
+  font-family: "Truculenta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
 }
 li {
   color: black;
+  border: 2px solid greenyellow;
 }
 .my-colors {
   color: hotpink;
-  padding: 30px;
+  padding: 10px;
 }
 #outcomes {
   color: teal;
